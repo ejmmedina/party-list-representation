@@ -5,4 +5,4 @@ Using the elections dataset, we explore the winners of the 2019 elections on the
 
 ##### Report and analysis
 
-The full report is included in the Jupyter notebook. If you have any questions regarding this study or wish to have a copy of the report, please send me a message via <a href="mailto:elijahjustinmedina@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/elijah-justin-medina/">LinkedIn</a>.
+The full report is included in the <a href="https://github.com/ejmmedina/party-list-representation/blob/master/party-list-representation-dmw.md">Jupyter notebook</a>. If you have any questions regarding this study or wish to have a copy of the report, please send me a message via <a href="mailto:elijahjustinmedina@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/elijah-justin-medina/">LinkedIn</a>.
